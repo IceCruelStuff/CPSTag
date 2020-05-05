@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Inaayat04/CPSTag
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/IceCruelStuff/CPSTag
 build-by-default: true
 branches:
 - master
